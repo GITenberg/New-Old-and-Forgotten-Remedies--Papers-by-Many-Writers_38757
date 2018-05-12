@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39638'
     url: http://www.gutenberg.org/2009/agents/39638
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38757#New-Old-and-Forgotten-Remedies--Papers-by-Many-Writers
 gutenberg_issued: '2012-02-04'
 gutenberg_type: Text
 identifiers:
